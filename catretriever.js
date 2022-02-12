@@ -8,8 +8,8 @@ const minHeight = 100;
 
 
 const kittenUrl = 'https://placekitten.com/';
-// const openvisionUrl = 'https://api.openvisionapi.com/api/v1/detection';
-const openvisionUrl = 'http://localhost:8000/api/v1/detection';
+const openvisionUrl = 'https://api.openvisionapi.com/api/v1/detection';
+//const openvisionUrl = 'http://localhost:8000/api/v1/detection';
 
 var foundCats = 0;
 var minScore = 0;
